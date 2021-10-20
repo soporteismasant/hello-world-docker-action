@@ -1,0 +1,4 @@
+# Imagen del contenedor que ejecuta tu código
+FROM alpine:3.10
+
+# Copia
